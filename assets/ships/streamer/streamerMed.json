@@ -17,7 +17,7 @@
     }
   ],
   "engine": "core:imperialEngine",
-  "rigidBody":[
+  "rigidBody":
     {
       "name":"Name",
       "imagePath":"streamerMed.png",
@@ -1003,8 +1003,7 @@
           ]
         }
       ]
-    }
-  ],
+    },
   "particleEmitters": [
     {
       "position": "0.15 0.50",
