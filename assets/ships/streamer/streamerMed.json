@@ -1,19 +1,23 @@
 {
-  "size": 3.5,
+  "size": 1,
   "maxLife": 1000,
   "type": "std",
   "price": 4000,
   "ability": {
-    "type": "knockBack",
-    "force": 150,
+    "type": "teleport",
     "rechargeTime": 10
   },
   "displayName": "Streamer Medium",
   "gunSlots": [
     {
-      "position": "0.35 0.5",
+      "position": "0.54 0.26",
       "isUnderneathHull": false,
-      "allowsRotation": true
+      "allowsRotation": false
+    },
+    {
+      "position": "0.54 0.74",
+      "isUnderneathHull": false,
+      "allowsRotation": false
     }
   ],
   "engine": "core:imperialEngine",
@@ -1006,7 +1010,7 @@
     },
   "particleEmitters": [
     {
-      "position": "0.15 0.50",
+      "position": "0.11 0.43",
       "trigger": "engine",
       "hasLight": true,
       "particle": {
@@ -1024,7 +1028,7 @@
       ]
     },
     {
-      "position": "0.15 0.50",
+      "position": "0.11 0.57",
       "trigger": "engine",
       "hasLight": true,
       "particle": {
