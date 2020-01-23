@@ -2,6 +2,6 @@
   "Streamer Medium": {
     "hull": "Terminal:streamerMed",
     "items": "99*rep core:advancedArmor-1 core:advancedShield-1 core:fixedGun-1 core:fixedGun-2 250*core:bulletClip",
-    "money": 100000000000
+    "money": 10000
   }
 }
